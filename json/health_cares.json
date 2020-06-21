@@ -1,0 +1,5142 @@
+{
+    "c1": [
+        {
+            "sno": "1",
+            "district": "BARPETA",
+            "name": "Fakhruddin Ali Ahmed Medical College\r\nand Hospital (FAAMCH)",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "2",
+            "district": "CACHAR",
+            "name": "Silchar Medical College and Hospital",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "3",
+            "district": "CHIRANG",
+            "name": "JSB CIVIL HOSPITAL, KAJALGAON",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "4",
+            "district": "DARRANG",
+            "name": "Mangaldai Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "DHEMAJI",
+            "name": "Dhemaji Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "6",
+            "district": "DIBRUGARH",
+            "name": "Assam Medical College and Hospital",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "7",
+            "district": "GOALPARA",
+            "name": "Civil Hospital, Goalpara",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "8",
+            "district": "GOLAGHAT",
+            "name": "SKK CIVIL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "JORHAT",
+            "name": "5 AFH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "10",
+            "district": "JORHAT",
+            "name": "JORHAT MEDICAL COLLEGE AND\r\nHOSPITAL",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "11",
+            "district": "KAMRUP",
+            "name": "Singimari Model Hospital. Dadara,\r\nKamrup",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "12",
+            "district": "KAMRUP METRO",
+            "name": "SONAPUR DISTRICT HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "13",
+            "district": "KAMRUP METRO",
+            "name": "MMCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "14",
+            "district": "KAMRUP METRO",
+            "name": "GAUHATI MEDICAL COLLEGE HOSPITAL",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "15",
+            "district": "KARBI ANGLONG",
+            "name": "Diphu Medical College and Hospital (Old\r\nCampus)",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "16",
+            "district": "KOKRAJHAR",
+            "name": "R N B Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "17",
+            "district": "LAKHIMPUR",
+            "name": "Telahi Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "18",
+            "district": "NAGAON",
+            "name": "B.P. CIVIL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "19",
+            "district": "NALBARI",
+            "name": "S M K Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "20",
+            "district": "SIVASAGAR",
+            "name": "Sivasagar Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "21",
+            "district": "SONITPUR",
+            "name": "Tezpur Medical College & Hospital",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "22",
+            "district": "TINSUKIA",
+            "name": "Tinsukia Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "23",
+            "district": "UDALGURI",
+            "name": "Udalguri civil hospital",
+            "type": "Govt Hospitals"
+        }
+    ], "c2": [
+        {
+            "sno": "1",
+            "district": "BAKSA",
+            "name": "Tamulpur CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "2",
+            "district": "BAKSA",
+            "name": "Niz Kaurbaha BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "3",
+            "district": "BAKSA",
+            "name": "Barama CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "4",
+            "district": "BAKSA",
+            "name": "Golagaon BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "BAKSA",
+            "name": "Jogen Basumatary 30 beded Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "6",
+            "district": "BAKSA",
+            "name": "Tamulpur BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "7",
+            "district": "BAKSA",
+            "name": "Goreswar CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "8",
+            "district": "BAKSA",
+            "name": "Nagrijule Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "BAKSA",
+            "name": "Jalah CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "10",
+            "district": "BAKSA",
+            "name": "Kumarikata SD",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "11",
+            "district": "BAKSA",
+            "name": "Salbari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "12",
+            "district": "BAKSA",
+            "name": "Dr.Ravi Boro Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "13",
+            "district": "BAKSA",
+            "name": "Barama Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "14",
+            "district": "BARPETA",
+            "name": "SORBHOG CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "15",
+            "district": "BARPETA",
+            "name": "HOWLY CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "16",
+            "district": "BARPETA",
+            "name": "Pathsala Maternity Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "17",
+            "district": "BARPETA",
+            "name": "BHAWANIPUR CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "18",
+            "district": "BARPETA",
+            "name": "BHAKTARDOBA MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "19",
+            "district": "BARPETA",
+            "name": "Chenga PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "20",
+            "district": "BARPETA",
+            "name": "BAGHMARA CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "21",
+            "district": "BARPETA",
+            "name": "MANDIA MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "22",
+            "district": "BARPETA",
+            "name": "CHANDMAMA MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "23",
+            "district": "BARPETA",
+            "name": "Barpeta ROad CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "24",
+            "district": "BARPETA",
+            "name": "BHULUKADOBA MG MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "25",
+            "district": "BARPETA",
+            "name": "MAJGAON MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "26",
+            "district": "BARPETA",
+            "name": "Barpeta Civil Hospital Kalgachia",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "27",
+            "district": "BARPETA",
+            "name": "SARUKHETRI CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "28",
+            "district": "Biswanath",
+            "name": "Gohpur SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "29",
+            "district": "Biswanath",
+            "name": "Bargang Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "30",
+            "district": "Biswanath",
+            "name": "Biswanath SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "31",
+            "district": "Biswanath",
+            "name": "North Jamuguri",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "32",
+            "district": "Biswanath",
+            "name": "Kusumlata Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "33",
+            "district": "BONGAIGAON",
+            "name": "Bidyapur CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "34",
+            "district": "BONGAIGAON",
+            "name": "Manikpur Model Hospital, Manikpur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "35",
+            "district": "BONGAIGAON",
+            "name": "Boitamari Model Hospital, Boitamari",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "36",
+            "district": "BONGAIGAON",
+            "name": "Bongaigaon Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "37",
+            "district": "BONGAIGAON",
+            "name": "Abhayapuri FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "38",
+            "district": "CACHAR",
+            "name": "Lakhipur BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "39",
+            "district": "CACHAR",
+            "name": "MG Modal Hospital Kachudaram",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "40",
+            "district": "CACHAR",
+            "name": "Harinagar BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "41",
+            "district": "CACHAR",
+            "name": "Katigora Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "42",
+            "district": "CACHAR",
+            "name": "Borkhola BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "43",
+            "district": "CACHAR",
+            "name": "Kalain CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "44",
+            "district": "CACHAR",
+            "name": "Bikrampur PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "45",
+            "district": "CACHAR",
+            "name": "M. G. Modal Hospital Palonghat",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "46",
+            "district": "CACHAR",
+            "name": "M. G. Modal Hospital Chibitabichia",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "47",
+            "district": "CACHAR",
+            "name": "S M DEV CIVIL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "48",
+            "district": "CACHAR",
+            "name": "MG Modal Hopital Tikol Salganga",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "49",
+            "district": "CACHAR",
+            "name": "Udharbond BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "50",
+            "district": "CACHAR",
+            "name": "Sonai BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "51",
+            "district": "CACHAR",
+            "name": "M G Modal Hospital Chotodudpatil",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "52",
+            "district": "CACHAR",
+            "name": "CH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "CHARAIDEO",
+            "name": "Sonari SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "54",
+            "district": "CHARAIDEO",
+            "name": "Sapekhati BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "55",
+            "district": "CHARAIDEO",
+            "name": "Sapekhati Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "56",
+            "district": "CHARAIDEO",
+            "name": "Kanaklata",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "57",
+            "district": "CHARAIDEO",
+            "name": "Lakwa Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "58",
+            "district": "CHIRANG",
+            "name": "Sidli BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "59",
+            "district": "CHIRANG",
+            "name": "Ballamguri",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "60",
+            "district": "CHIRANG",
+            "name": "Kashikotra Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "61",
+            "district": "CHIRANG",
+            "name": "Bengtol",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "62",
+            "district": "CHIRANG",
+            "name": "Mahatma Gandhi Subhaijhar Model\r\nHospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "63",
+            "district": "CHIRANG",
+            "name": "Bhetagaon CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "64",
+            "district": "DARRANG",
+            "name": "DUNI MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "65",
+            "district": "DARRANG",
+            "name": "DEOMORNOI",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "66",
+            "district": "DARRANG",
+            "name": "PATHARIGHAT BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "67",
+            "district": "DARRANG",
+            "name": "BAZNAPATHAR CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "68",
+            "district": "DARRANG",
+            "name": "KUNWARI PUKHURI MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "69",
+            "district": "DARRANG",
+            "name": "JANARAM CHOWKA MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "70",
+            "district": "DARRANG",
+            "name": "SIPAJHAR FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "71",
+            "district": "DARRANG",
+            "name": "KHARUPETIA",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "72",
+            "district": "DHEMAJI",
+            "name": "Silapothar Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "73",
+            "district": "DHEMAJI",
+            "name": "Jonai CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "74",
+            "district": "DHEMAJI",
+            "name": "Gogamukh CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "75",
+            "district": "DHEMAJI",
+            "name": "Sissiborgaon BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "76",
+            "district": "DHEMAJI",
+            "name": "Jonai PHc",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "77",
+            "district": "DHEMAJI",
+            "name": "Bengenagarah CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "78",
+            "district": "DHUBRI",
+            "name": "Bogribari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "79",
+            "district": "DHUBRI",
+            "name": "Chapar CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "80",
+            "district": "DHUBRI",
+            "name": "Dhubri Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "81",
+            "district": "DHUBRI",
+            "name": "Diporkhuti SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "82",
+            "district": "DHUBRI",
+            "name": "Agomoni CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "83",
+            "district": "DHUBRI",
+            "name": "Halakura BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "84",
+            "district": "DHUBRI",
+            "name": "Moterjhar Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "85",
+            "district": "DHUBRI",
+            "name": "Gouripur CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "86",
+            "district": "DIBRUGARH",
+            "name": "Naharkatia SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "87",
+            "district": "DIBRUGARH",
+            "name": "BARBARUAH BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "88",
+            "district": "DIBRUGARH",
+            "name": "Moran Tiloi CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "89",
+            "district": "DIBRUGARH",
+            "name": "Chabua Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "90",
+            "district": "DIBRUGARH",
+            "name": "Sassoni CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "91",
+            "district": "DIBRUGARH",
+            "name": "Tengakhat Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "92",
+            "district": "DIBRUGARH",
+            "name": "Lengeri Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "93",
+            "district": "DIBRUGARH",
+            "name": "Rajgarh CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "94",
+            "district": "DIBRUGARH",
+            "name": "Jokai Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "95",
+            "district": "DIBRUGARH",
+            "name": "Naharkatia CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "96",
+            "district": "DIBRUGARH",
+            "name": "Lezai Kalakhowa Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "97",
+            "district": "DIBRUGARH",
+            "name": "Disang Rongsowal PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "98",
+            "district": "DIBRUGARH",
+            "name": "Naharani CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "99",
+            "district": "DIMA HASAO",
+            "name": "Khepre PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "100",
+            "district": "DIMA HASAO",
+            "name": "Gunjung BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "101",
+            "district": "DIMA HASAO",
+            "name": "Diyungmukh MPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "102",
+            "district": "DIMA HASAO",
+            "name": "Langting Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "103",
+            "district": "DIMA HASAO",
+            "name": "Harangajao MPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "104",
+            "district": "DIMA HASAO",
+            "name": "Maibang CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "105",
+            "district": "DIMA HASAO",
+            "name": "Umrangso CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "106",
+            "district": "DIMA HASAO",
+            "name": "Haflong Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "107",
+            "district": "GOALPARA",
+            "name": "Dudhnoi FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "108",
+            "district": "GOALPARA",
+            "name": "Jaleswar Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "109",
+            "district": "GOALPARA",
+            "name": "Ambari Bazar model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "110",
+            "district": "GOALPARA",
+            "name": "Bikali Model hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "111",
+            "district": "GOALPARA",
+            "name": "Matia Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "112",
+            "district": "GOALPARA",
+            "name": "Rangjuli BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "113",
+            "district": "GOALPARA",
+            "name": "Agia BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "114",
+            "district": "GOALPARA",
+            "name": "Mornoi BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "115",
+            "district": "GOALPARA",
+            "name": "Lakhipur BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "116",
+            "district": "GOLAGHAT",
+            "name": "Uriumghat Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "117",
+            "district": "GOLAGHAT",
+            "name": "Sarupathar CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "118",
+            "district": "GOLAGHAT",
+            "name": "Khumtai Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "119",
+            "district": "GOLAGHAT",
+            "name": "Nahordonga Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "120",
+            "district": "GOLAGHAT",
+            "name": "Charingia CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "121",
+            "district": "GOLAGHAT",
+            "name": "Dergaon",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "122",
+            "district": "GOLAGHAT",
+            "name": "Kohara Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "123",
+            "district": "GOLAGHAT",
+            "name": "COVID 19 Hospital, Golaghat",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "124",
+            "district": "GOLAGHAT",
+            "name": "Lakhijuri MPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "125",
+            "district": "GOLAGHAT",
+            "name": "Kachomari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "126",
+            "district": "GOLAGHAT",
+            "name": "Bokakhat SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "127",
+            "district": "GOLAGHAT",
+            "name": "Kamarbondha Ali BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "128",
+            "district": "GOLAGHAT",
+            "name": "Merapani CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "129",
+            "district": "HAILAKANDI",
+            "name": "MG Model Hospital Katlicherra",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "130",
+            "district": "HAILAKANDI",
+            "name": "Algapur Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "131",
+            "district": "HAILAKANDI",
+            "name": "Mohanpur CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "132",
+            "district": "HAILAKANDI",
+            "name": "S.K.ROY CIVIL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "133",
+            "district": "HAILAKANDI",
+            "name": "Lala CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "134",
+            "district": "HOJAI",
+            "name": "Jamunamukh",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "135",
+            "district": "HOJAI",
+            "name": "Lumding FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "136",
+            "district": "HOJAI",
+            "name": "Doboka CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "137",
+            "district": "HOJAI",
+            "name": "Nilbagan M G Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "138",
+            "district": "HOJAI",
+            "name": "Hojai FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "139",
+            "district": "HOJAI",
+            "name": "JUGIJAN MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "140",
+            "district": "HOJAI",
+            "name": "Lanka PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "141",
+            "district": "JORHAT",
+            "name": "Nagajanka CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "142",
+            "district": "JORHAT",
+            "name": "Bhogamukh Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "143",
+            "district": "JORHAT",
+            "name": "Chungi Kohar Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "144",
+            "district": "JORHAT",
+            "name": "Nakachari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "145",
+            "district": "JORHAT",
+            "name": "Borholla CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "146",
+            "district": "JORHAT",
+            "name": "Teok FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "147",
+            "district": "JORHAT",
+            "name": "Titabor SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "148",
+            "district": "KAMRUP",
+            "name": "Bezera FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "149",
+            "district": "KAMRUP",
+            "name": "Kalitakuchi Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "150",
+            "district": "KAMRUP",
+            "name": "Kamalpur Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "151",
+            "district": "KAMRUP",
+            "name": "Goroimary CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "152",
+            "district": "KAMRUP",
+            "name": "Hajo FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "153",
+            "district": "KAMRUP",
+            "name": "Bamunigaon Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "154",
+            "district": "KAMRUP",
+            "name": "CH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "155",
+            "district": "KAMRUP",
+            "name": "Boko FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "156",
+            "district": "KAMRUP",
+            "name": "Moinakhurung Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "157",
+            "district": "KAMRUP",
+            "name": "Rani CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "158",
+            "district": "KAMRUP",
+            "name": "Mirza CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "159",
+            "district": "KAMRUP",
+            "name": "Rangia Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "160",
+            "district": "KAMRUP",
+            "name": "Rangia SDCG/FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "161",
+            "district": "KAMRUP METRO",
+            "name": "Down Town Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "162",
+            "district": "KAMRUP METRO",
+            "name": "CH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "163",
+            "district": "KAMRUP METRO",
+            "name": "GNRC DISPUR",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "164",
+            "district": "KAMRUP METRO",
+            "name": "Apollo Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "165",
+            "district": "KAMRUP METRO",
+            "name": "Ayusundra Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "166",
+            "district": "KAMRUP METRO",
+            "name": "Namcare Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "167",
+            "district": "KAMRUP METRO",
+            "name": "GNRC,Sixmile",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "168",
+            "district": "KAMRUP METRO",
+            "name": "LGB TB Hospital,",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "169",
+            "district": "KAMRUP METRO",
+            "name": "Pratiksha Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "170",
+            "district": "KAMRUP METRO",
+            "name": "Dhirenpara",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "171",
+            "district": "KAMRUP METRO",
+            "name": "Hayat Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "172",
+            "district": "KAMRUP METRO",
+            "name": "Pandu FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "173",
+            "district": "KAMRUP METRO",
+            "name": "Health City Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "174",
+            "district": "KAMRUP METRO",
+            "name": "Marrowary Hoapital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "175",
+            "district": "KAMRUP METRO",
+            "name": "Khetri CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "176",
+            "district": "KARBI ANGLONG",
+            "name": "Umpani PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "177",
+            "district": "KARBI ANGLONG",
+            "name": "Hidipi PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "178",
+            "district": "KARBI ANGLONG",
+            "name": "Howraghat CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "179",
+            "district": "KARBI ANGLONG",
+            "name": "Dentaghat CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "180",
+            "district": "KARBI ANGLONG",
+            "name": "Balipothar MPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "181",
+            "district": "KARBI ANGLONG",
+            "name": "Howraghat CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "182",
+            "district": "KARBI ANGLONG",
+            "name": "Hanlokrok PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "183",
+            "district": "KARBI ANGLONG",
+            "name": "Balijuri Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "184",
+            "district": "KARBI ANGLONG",
+            "name": "Bokolia CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "185",
+            "district": "KARBI ANGLONG",
+            "name": "Kheroni Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "186",
+            "district": "KARBI ANGLONG",
+            "name": "Deihori Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "187",
+            "district": "KARBI ANGLONG",
+            "name": "Chokihola PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "188",
+            "district": "KARBI ANGLONG",
+            "name": "Bokajan CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "189",
+            "district": "KARBI ANGLONG",
+            "name": "Donkamokam CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "190",
+            "district": "KARIMGANJ",
+            "name": "Baroigram MG Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "191",
+            "district": "KARIMGANJ",
+            "name": "Karimganj Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "192",
+            "district": "KARIMGANJ",
+            "name": "Srigouri CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "193",
+            "district": "KARIMGANJ",
+            "name": "Patharkandi Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "194",
+            "district": "KARIMGANJ",
+            "name": "Kachuadam MG Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "195",
+            "district": "KARIMGANJ",
+            "name": "Dullavcherra MG Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "196",
+            "district": "KARIMGANJ",
+            "name": "Girishganj M.G. Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "197",
+            "district": "KOKRAJHAR",
+            "name": "Gossaigaon PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "198",
+            "district": "KOKRAJHAR",
+            "name": "Kachugoan CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "199",
+            "district": "KOKRAJHAR",
+            "name": "Dotma CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "200",
+            "district": "KOKRAJHAR",
+            "name": "RNBCH, Gossaigaon",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "201",
+            "district": "LAKHIMPUR",
+            "name": "North Lakhimpur Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "202",
+            "district": "LAKHIMPUR",
+            "name": "Dhakuakhana SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "203",
+            "district": "LAKHIMPUR",
+            "name": "Laluk Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "204",
+            "district": "LAKHIMPUR",
+            "name": "Dhalpur BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "205",
+            "district": "LAKHIMPUR",
+            "name": "Bihpuria BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "206",
+            "district": "LAKHIMPUR",
+            "name": "Nowboicha BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "207",
+            "district": "LAKHIMPUR",
+            "name": "Bongalmora CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "208",
+            "district": "LAKHIMPUR",
+            "name": "Boginadi Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "209",
+            "district": "LAKHIMPUR",
+            "name": "Ghilamora CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "210",
+            "district": "LAKHIMPUR",
+            "name": "Narayanpur Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "211",
+            "district": "MAJULI",
+            "name": "Kamalabari CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "212",
+            "district": "MAJULI",
+            "name": "Jengraimukh Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "213",
+            "district": "MAJULI",
+            "name": "Garmur SDCH",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "214",
+            "district": "MARIGAON",
+            "name": "Bhurbandha Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "215",
+            "district": "MARIGAON",
+            "name": "Jagiroad HPC Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "216",
+            "district": "MARIGAON",
+            "name": "Dolonghat Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "217",
+            "district": "MARIGAON",
+            "name": "16 AP (IR) Bn Dalanghat",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "218",
+            "district": "MARIGAON",
+            "name": "Laharighat BPHC/ Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "219",
+            "district": "MARIGAON",
+            "name": "Nakhola SHC/ Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "220",
+            "district": "MARIGAON",
+            "name": "Morigaon Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "221",
+            "district": "MARIGAON",
+            "name": "Chabukdhara CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "222",
+            "district": "NAGAON",
+            "name": "RAHA RANTHOLI CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "223",
+            "district": "NAGAON",
+            "name": "KONDOLI MODEL HOSPITAL, NAGAON",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "224",
+            "district": "NAGAON",
+            "name": "ULUONI CHC, NAGAON",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "225",
+            "district": "NAGAON",
+            "name": "UJARA GAON MODEL HOSPITAL,\r\nNAGAON",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "226",
+            "district": "NAGAON",
+            "name": "MOWAMARI MODEL HOSPITAL,\r\nNAGAON",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "227",
+            "district": "NAGAON",
+            "name": "BEBEJIA CHC, NAGAON",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "228",
+            "district": "NAGAON",
+            "name": "SIMONABASTI MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "229",
+            "district": "NALBARI",
+            "name": "Makhibaha Model Hospital Tihu",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "230",
+            "district": "NALBARI",
+            "name": "Kathikuchi Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "231",
+            "district": "NALBARI",
+            "name": "Tihu FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "232",
+            "district": "NALBARI",
+            "name": "MG Model Hospital Belsor",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "233",
+            "district": "NALBARI",
+            "name": "KALAG CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "234",
+            "district": "NALBARI",
+            "name": "KAKAYA CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "235",
+            "district": "NALBARI",
+            "name": "Mukalmua FRU CHC BPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "236",
+            "district": "NALBARI",
+            "name": "CHAMATA CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "237",
+            "district": "NALBARI",
+            "name": "BARNADDI CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "238",
+            "district": "NALBARI",
+            "name": "MG MODEL HOSPITAL ADABARI",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "239",
+            "district": "NALBARI",
+            "name": "Bhangnamari Char CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "240",
+            "district": "SIVASAGAR",
+            "name": "East Point Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "241",
+            "district": "SIVASAGAR",
+            "name": "Aditya Hospital, Sivasagar",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "242",
+            "district": "SIVASAGAR",
+            "name": "Pragati Nursing Home",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "243",
+            "district": "SIVASAGAR",
+            "name": "Demow Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "244",
+            "district": "SIVASAGAR",
+            "name": "Swargadeo Shukafa Multi Speciality\r\nHospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "245",
+            "district": "SIVASAGAR",
+            "name": "Ligiripukhuri Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "246",
+            "district": "SIVASAGAR",
+            "name": "ONGC Hospital, Sivasagar",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "247",
+            "district": "SIVASAGAR",
+            "name": "Amguri CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "248",
+            "district": "SONITPUR",
+            "name": "Ghoramari Model Hospital Kasumata",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "249",
+            "district": "SONITPUR",
+            "name": "Kalabari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "250",
+            "district": "SONITPUR",
+            "name": "CH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "251",
+            "district": "SONITPUR",
+            "name": "Bishnu Borah",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "252",
+            "district": "SONITPUR",
+            "name": "Kanaklata Civil Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "253",
+            "district": "SONITPUR",
+            "name": "Bhojkhwa Reverine PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "254",
+            "district": "SONITPUR",
+            "name": "Dhekiajuli",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "255",
+            "district": "SONITPUR",
+            "name": "Sirajuli Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "256",
+            "district": "SONITPUR",
+            "name": "Kusumtola Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "257",
+            "district": "SONITPUR",
+            "name": "Singri SD",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "258",
+            "district": "SONITPUR",
+            "name": "1 No. Basasimalu River PHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "259",
+            "district": "SONITPUR",
+            "name": "Balichang Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "260",
+            "district": "SONITPUR",
+            "name": "Dangori CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "261",
+            "district": "SONITPUR",
+            "name": "Balipara",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "262",
+            "district": "SONITPUR",
+            "name": "Phillobari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "263",
+            "district": "SONITPUR",
+            "name": "Panchmile NPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "264",
+            "district": "SOUTH SALMARA\r\nMANCACHAR",
+            "name": "Hatsingimari SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "265",
+            "district": "TINSUKIA",
+            "name": "Chapakhowa FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "266",
+            "district": "TINSUKIA",
+            "name": "MG Kothalguri Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "267",
+            "district": "TINSUKIA",
+            "name": "Margherita FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "268",
+            "district": "TINSUKIA",
+            "name": "Digboi CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "269",
+            "district": "TINSUKIA",
+            "name": "Dangori CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "270",
+            "district": "TINSUKIA",
+            "name": "Phillobari Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "271",
+            "district": "TINSUKIA",
+            "name": "Doomdooma FRU",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "272",
+            "district": "TINSUKIA",
+            "name": "MOHKHOOLI MODEL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "273",
+            "district": "UDALGURI",
+            "name": "Rowta Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "274",
+            "district": "UDALGURI",
+            "name": "Lamabari TE",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "275",
+            "district": "UDALGURI",
+            "name": "Gerua Bazar",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "276",
+            "district": "UDALGURI",
+            "name": "Pauripota SD",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "277",
+            "district": "UDALGURI",
+            "name": "Puthimari SD",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "278",
+            "district": "WEST KARBI\r\nANGLONG",
+            "name": "Hanlokrok MPHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "279",
+            "district": "WEST KARBI\r\nANGLONG",
+            "name": "Hamren SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "280",
+            "district": "WEST KARBI\r\nANGLONG",
+            "name": "Donkamokam CHC",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "281",
+            "district": "WEST KARBI\r\nANGLONG",
+            "name": "Kheroni Model Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "282",
+            "district": "WEST KARBI\r\nANGLONG",
+            "name": "Hamren SDCH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "283",
+            "district": "WEST KARBI\r\nANGLONG",
+            "name": "Umpanai PHC",
+            "type": "Govt Hospitals"
+        }
+    ],"c3": [
+        {
+            "sno": "1",
+            "district": "BAKSA",
+            "name": "Mushalpur Indoor Stadium",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "2",
+            "district": "BAKSA",
+            "name": "Integrated Textile park",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "3",
+            "district": "BAKSA",
+            "name": "Tamulpur Girls High School Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "4",
+            "district": "BAKSA",
+            "name": "Salbari Indoor Stadium",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "5",
+            "district": "BARPETA",
+            "name": "Satish Sarma Memorial Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "6",
+            "district": "BARPETA",
+            "name": "Angkuram Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "7",
+            "district": "BARPETA",
+            "name": "NIRC Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "8",
+            "district": "BARPETA",
+            "name": "Sanjivini Hospital & RC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "9",
+            "district": "Biswanath",
+            "name": "Chaiduar College Girl's Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "10",
+            "district": "Biswanath",
+            "name": "St. Jeseph School Hostel, Halem",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "11",
+            "district": "Biswanath",
+            "name": "Biswanath College Girlâ€™s Hostel,\r\nBiswanath Chariali",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "12",
+            "district": "Biswanath",
+            "name": "Pandit Din Dayal Upadhya Adarsh\r\nMahavidyalaya Hostel, Behali",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "13",
+            "district": "Biswanath",
+            "name": "Bapuji HS Girls Hostel, Balipukhuri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "14",
+            "district": "Biswanath",
+            "name": "Janata HS MSDP Hostel, Behali",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "15",
+            "district": "Biswanath",
+            "name": "Pabhoi HS MSDP Hostel, Pabhoi",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "16",
+            "district": "Biswanath",
+            "name": "Biswanath Chariali Govt. ITI, Balipukhuri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "17",
+            "district": "BONGAIGAON",
+            "name": "Lower Assam Hospital,Bongaigaon",
+            "type": "Hospital"
+        },
+        {
+            "sno": "18",
+            "district": "BONGAIGAON",
+            "name": "Bongaigaon Railway Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "19",
+            "district": "BONGAIGAON",
+            "name": "Arogya Hospital & Research Centre",
+            "type": "Hospital"
+        },
+        {
+            "sno": "20",
+            "district": "BONGAIGAON",
+            "name": "Swagat Hospital & Research Centre",
+            "type": "Hospital"
+        },
+        {
+            "sno": "21",
+            "district": "CACHAR",
+            "name": "Medinova Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "22",
+            "district": "CACHAR",
+            "name": "South City Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "23",
+            "district": "CACHAR",
+            "name": "Mediland Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "24",
+            "district": "CACHAR",
+            "name": "Nightangle Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "25",
+            "district": "CACHAR",
+            "name": "Cachar Cancer Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "26",
+            "district": "CACHAR",
+            "name": "BSF Hospital Dholcherra",
+            "type": "Hospital"
+        },
+        {
+            "sno": "27",
+            "district": "CACHAR",
+            "name": "Green Heals Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "28",
+            "district": "CACHAR",
+            "name": "Valley Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "29",
+            "district": "CHARAIDEO",
+            "name": "Manjushri TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "30",
+            "district": "CHARAIDEO",
+            "name": "Borpatra TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "31",
+            "district": "CHARAIDEO",
+            "name": "Cherideo Purbut TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "32",
+            "district": "CHARAIDEO",
+            "name": "Borhat TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "33",
+            "district": "CHARAIDEO",
+            "name": "Borahi TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "34",
+            "district": "CHARAIDEO",
+            "name": "Salkathani TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "35",
+            "district": "CHARAIDEO",
+            "name": "Kanubari TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "36",
+            "district": "CHARAIDEO",
+            "name": "Teok TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "37",
+            "district": "CHARAIDEO",
+            "name": "Muttrapore TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "38",
+            "district": "CHARAIDEO",
+            "name": "Borasali TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "39",
+            "district": "CHARAIDEO",
+            "name": "Suffry TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "40",
+            "district": "CHARAIDEO",
+            "name": "Lakwa TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "41",
+            "district": "CHARAIDEO",
+            "name": "Domordolong TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "CHARAIDEO",
+            "name": "Naharhabi TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "43",
+            "district": "CHARAIDEO",
+            "name": "Hingrijan TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "44",
+            "district": "CHARAIDEO",
+            "name": "Joboka TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "45",
+            "district": "CHARAIDEO",
+            "name": "Towkak TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "46",
+            "district": "CHARAIDEO",
+            "name": "Khoomtai TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "47",
+            "district": "CHARAIDEO",
+            "name": "Napuk TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "48",
+            "district": "CHIRANG",
+            "name": "UN BRAHMA JUNIOR COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "49",
+            "district": "CHIRANG",
+            "name": "BAIKHUNGAON CHATIPUR ME MADRASA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "50",
+            "district": "CHIRANG",
+            "name": "28 NO CHAPAGURI ME SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "51",
+            "district": "CHIRANG",
+            "name": "DHALIGAON HIGH SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "52",
+            "district": "CHIRANG",
+            "name": "UN BRAHMA COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "CHIRANG",
+            "name": "KAJALGAON HIGH SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "54",
+            "district": "DARRANG",
+            "name": "SIPAJHAR COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "55",
+            "district": "DARRANG",
+            "name": "Bechimari Higher Secondary School,\r\nKharupetia",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "56",
+            "district": "DARRANG",
+            "name": "Mangaldai Town Girls",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "57",
+            "district": "DARRANG",
+            "name": "Mangaldai Higher Secondary School.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "58",
+            "district": "DARRANG",
+            "name": "KHARUPETIA COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "59",
+            "district": "DHEMAJI",
+            "name": "Engineering College Dhemaji",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "60",
+            "district": "DHEMAJI",
+            "name": "Truck Terminal Dhemaji",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "61",
+            "district": "DHEMAJI",
+            "name": "Inter District Bus Terminal",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "62",
+            "district": "DHUBRI",
+            "name": "F A Memorial High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "63",
+            "district": "DHUBRI",
+            "name": "Sapatgram High Madrassa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "64",
+            "district": "DHUBRI",
+            "name": "Dhubri Girls Academy High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "65",
+            "district": "DHUBRI",
+            "name": "SONALUGURI HIGH MADRASSA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "66",
+            "district": "DHUBRI",
+            "name": "Rokhakhata HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "67",
+            "district": "DHUBRI",
+            "name": "1476 Agomoni JB School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "68",
+            "district": "DHUBRI",
+            "name": "Bidyapara Girls' High School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "69",
+            "district": "DHUBRI",
+            "name": "Chilarai College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "70",
+            "district": "DHUBRI",
+            "name": "RANIGANJ HS SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "71",
+            "district": "DHUBRI",
+            "name": "I N Academy H S school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "72",
+            "district": "DHUBRI",
+            "name": "Agomoni Girls' High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "73",
+            "district": "DHUBRI",
+            "name": "Ratnapeeth College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "74",
+            "district": "DHUBRI",
+            "name": "B C Memorial School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "75",
+            "district": "DHUBRI",
+            "name": "Basic Training Centre",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "76",
+            "district": "DHUBRI",
+            "name": "LAKHIGANJ H.S ACADEMY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "77",
+            "district": "DHUBRI",
+            "name": "Surya Khata ME school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "78",
+            "district": "DHUBRI",
+            "name": "404 Dighaltari IB School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "79",
+            "district": "DHUBRI",
+            "name": "Chapar H S School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "80",
+            "district": "DHUBRI",
+            "name": "Jawahar Hindi High School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "81",
+            "district": "DHUBRI",
+            "name": "Jagamohan Vidyapith",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "82",
+            "district": "DHUBRI",
+            "name": "KAZAIKATA PM ACADEMY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "83",
+            "district": "DHUBRI",
+            "name": "Bilasipara Public HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "84",
+            "district": "DHUBRI",
+            "name": "Halakura Girls' ME School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "85",
+            "district": "DHUBRI",
+            "name": "Chapar Madrassa HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "86",
+            "district": "DHUBRI",
+            "name": "Municipal High School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "87",
+            "district": "DHUBRI",
+            "name": "Balajan ME Madrassa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "88",
+            "district": "DHUBRI",
+            "name": "police hospital dhubri",
+            "type": "Hospital"
+        },
+        {
+            "sno": "89",
+            "district": "DHUBRI",
+            "name": "JOGIRMAHAL HS SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "90",
+            "district": "DHUBRI",
+            "name": "Bilasipara Sr Madrasa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "91",
+            "district": "DHUBRI",
+            "name": "Halakura College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "92",
+            "district": "DHUBRI",
+            "name": "MSDC Building",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "93",
+            "district": "DHUBRI",
+            "name": "Govt Girls' HS School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "94",
+            "district": "DHUBRI",
+            "name": "Sonahat Senior Madrassa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "95",
+            "district": "DHUBRI",
+            "name": "Golakganj BPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "96",
+            "district": "DHUBRI",
+            "name": "BILASIPARA COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "97",
+            "district": "DHUBRI",
+            "name": "GOURIPUR HOSPITAL. PVT. LTD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "98",
+            "district": "DHUBRI",
+            "name": "P B College, Gauripur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "99",
+            "district": "DHUBRI",
+            "name": "Govt Boy's HS School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "100",
+            "district": "DHUBRI",
+            "name": "Paglahat High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "101",
+            "district": "DHUBRI",
+            "name": "Dharmasala BPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "102",
+            "district": "DHUBRI",
+            "name": "TOWN GIRLS HIGH SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "103",
+            "district": "DHUBRI",
+            "name": "P. C Institution H S School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "104",
+            "district": "DHUBRI",
+            "name": "Prasanti Tourist Lodge,Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "105",
+            "district": "DHUBRI",
+            "name": "Hudurhat Dharmasala HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "106",
+            "district": "DHUBRI",
+            "name": "721 Paglahat JB School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "107",
+            "district": "DHUBRI",
+            "name": "184 NO BLP TOWN JB SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "108",
+            "district": "DHUBRI",
+            "name": "Gauripur Girls' High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "109",
+            "district": "DHUBRI",
+            "name": "Kismat Hasdaha H School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "110",
+            "district": "DHUBRI",
+            "name": "Hatidhura College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "111",
+            "district": "DHUBRI",
+            "name": "Kalahat Model Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "112",
+            "district": "DHUBRI",
+            "name": "Satrasal H S School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "113",
+            "district": "DHUBRI",
+            "name": "Byomkesh MEMORIAL Jr. Collage",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "114",
+            "district": "DHUBRI",
+            "name": "Boraibari ME School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "115",
+            "district": "DHUBRI",
+            "name": "H N Seminary HS School, Bgribari",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "116",
+            "district": "DHUBRI",
+            "name": "Bidyapara Boy's HS School, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "117",
+            "district": "DHUBRI",
+            "name": "Tamarhat High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "118",
+            "district": "DHUBRI",
+            "name": "SAPATGRAM COLLAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "119",
+            "district": "DHUBRI",
+            "name": "Kaldoba High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "120",
+            "district": "DHUBRI",
+            "name": "Bilasipara Girls High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "121",
+            "district": "DHUBRI",
+            "name": "Alamganj Geramari Amalgamated HS\r\nSchool",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "122",
+            "district": "DHUBRI",
+            "name": "Sapatgram Academy",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "123",
+            "district": "DHUBRI",
+            "name": "Bhola Nath College, Dhubri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "124",
+            "district": "DHUBRI",
+            "name": "Kachakhana HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "125",
+            "district": "DHUBRI",
+            "name": "LILANANDA VIDYAPITH ME SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "126",
+            "district": "DHUBRI",
+            "name": "94 No. Hakama JB School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "127",
+            "district": "DHUBRI",
+            "name": "Kaimari MV School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "128",
+            "district": "DIBRUGARH",
+            "name": "Naharkatia New HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "129",
+            "district": "DIBRUGARH",
+            "name": "Lahoal College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "130",
+            "district": "DIBRUGARH",
+            "name": "Hatiali High SChool",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "131",
+            "district": "DIBRUGARH",
+            "name": "Lezai HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "132",
+            "district": "DIBRUGARH",
+            "name": "Tengakaht girls high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "133",
+            "district": "DIBRUGARH",
+            "name": "Dhemechi high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "134",
+            "district": "DIBRUGARH",
+            "name": "DHSK College Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "135",
+            "district": "DIBRUGARH",
+            "name": "Chachani HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "136",
+            "district": "DIBRUGARH",
+            "name": "Dikom HIgh School Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "137",
+            "district": "DIBRUGARH",
+            "name": "Lezai Girls High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "138",
+            "district": "DIBRUGARH",
+            "name": "tengakhat HS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "139",
+            "district": "DIBRUGARH",
+            "name": "Senchowa pukhuri high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "140",
+            "district": "DIBRUGARH",
+            "name": "Namrup College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "141",
+            "district": "DIBRUGARH",
+            "name": "Dikom High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "142",
+            "district": "DIBRUGARH",
+            "name": "Kotoha High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "143",
+            "district": "DIBRUGARH",
+            "name": "Tipling ghat HES",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "144",
+            "district": "DIBRUGARH",
+            "name": "pothalibam high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "145",
+            "district": "DIBRUGARH",
+            "name": "Naharkatia College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "146",
+            "district": "DIBRUGARH",
+            "name": "SIRD",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "147",
+            "district": "DIBRUGARH",
+            "name": "Kotoha Binapani High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "148",
+            "district": "DIBRUGARH",
+            "name": "purbanchal karikari high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "149",
+            "district": "DIBRUGARH",
+            "name": "khowang higher secondary school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "150",
+            "district": "DIBRUGARH",
+            "name": "Naharkatia HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "151",
+            "district": "DIBRUGARH",
+            "name": "Barbaruah Girls High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "152",
+            "district": "DIBRUGARH",
+            "name": "Khamtighat High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "153",
+            "district": "DIBRUGARH",
+            "name": "Kathalguri HSS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "154",
+            "district": "DIBRUGARH",
+            "name": "Lengeri model hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "155",
+            "district": "DIBRUGARH",
+            "name": "Joypur HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "156",
+            "district": "DIBRUGARH",
+            "name": "Borpothar Boys High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "157",
+            "district": "DIBRUGARH",
+            "name": "Kolakhowa Miripathar HIgh School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "158",
+            "district": "DIBRUGARH",
+            "name": "Duliajan ucchya bidyalaya",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "159",
+            "district": "DIBRUGARH",
+            "name": "Assam Bidyapeeth Higher Secondary\r\nSchool",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "160",
+            "district": "DIBRUGARH",
+            "name": "BVFCL HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "161",
+            "district": "DIBRUGARH",
+            "name": "Borpothar Girls High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "162",
+            "district": "DIBRUGARH",
+            "name": "Jokai HIgh School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "163",
+            "district": "DIBRUGARH",
+            "name": "Bokul adarsha bidyalaya",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "164",
+            "district": "DIBRUGARH",
+            "name": "SDCH Naharkatia",
+            "type": "Hospital"
+        },
+        {
+            "sno": "165",
+            "district": "DIBRUGARH",
+            "name": "Bogdung High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "166",
+            "district": "DIBRUGARH",
+            "name": "Sarvajanin High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "167",
+            "district": "DIBRUGARH",
+            "name": "Tengakhat model hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "168",
+            "district": "DIBRUGARH",
+            "name": "Itakhuli Dehingthan High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "169",
+            "district": "DIBRUGARH",
+            "name": "Bokul high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "170",
+            "district": "DIBRUGARH",
+            "name": "Rongchungi High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "171",
+            "district": "DIBRUGARH",
+            "name": "Samilit Janata High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "172",
+            "district": "DIBRUGARH",
+            "name": "Tengakhat college",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "173",
+            "district": "DIBRUGARH",
+            "name": "Bogibeel HIgh School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "174",
+            "district": "DIBRUGARH",
+            "name": "maruwari hindi school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "175",
+            "district": "DIBRUGARH",
+            "name": "Rongchungi High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "176",
+            "district": "DIBRUGARH",
+            "name": "Rameswar HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "177",
+            "district": "DIBRUGARH",
+            "name": "Tengakhat college hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "178",
+            "district": "DIBRUGARH",
+            "name": "Chesha Tinali Moidamoni High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "179",
+            "district": "DIBRUGARH",
+            "name": "Dibrugarh polytechnic",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "180",
+            "district": "DIBRUGARH",
+            "name": "DDR College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "181",
+            "district": "DIBRUGARH",
+            "name": "Madhupur HIgh School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "182",
+            "district": "DIBRUGARH",
+            "name": "Tingrai RKB high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "183",
+            "district": "DIBRUGARH",
+            "name": "Naharani high school",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "184",
+            "district": "DIMA HASAO",
+            "name": "Mahur HS School, Dima Hasao",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "185",
+            "district": "GOALPARA",
+            "name": "AKD Hostel Dudhnoi",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "186",
+            "district": "GOALPARA",
+            "name": "Royal Guest House, Lakhipur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "187",
+            "district": "GOALPARA",
+            "name": "Assam Club Goalpara",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "188",
+            "district": "GOALPARA",
+            "name": "Baguan Higher Secondary School Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "189",
+            "district": "GOALPARA",
+            "name": "K.G.B.V Baida",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "190",
+            "district": "GOALPARA",
+            "name": "Khandakar Lodge, Lakhipur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "191",
+            "district": "GOALPARA",
+            "name": "Deen Dayal Upadhyay College Hostel,\r\nAmjonga",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "192",
+            "district": "GOALPARA",
+            "name": "P P Lodge dudhnoi",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "193",
+            "district": "GOALPARA",
+            "name": "Bikali College Boys Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "194",
+            "district": "GOALPARA",
+            "name": "Lakhipur E.B.B Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "195",
+            "district": "GOALPARA",
+            "name": "Kanaklata Hostel west Goalpara College\r\nAmbari Bazar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "196",
+            "district": "GOALPARA",
+            "name": "West Goalpara College (Schedule Caste\r\nHostel), Ambari Bazar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "197",
+            "district": "GOALPARA",
+            "name": "Don Bosco school, Matia",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "198",
+            "district": "GOALPARA",
+            "name": "Dudhnoi BTC",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "199",
+            "district": "GOALPARA",
+            "name": "Novelty Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "200",
+            "district": "GOALPARA",
+            "name": "Dudhnoi College Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "201",
+            "district": "GOALPARA",
+            "name": "Dalgoma HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "202",
+            "district": "GOALPARA",
+            "name": "Rashmi Bibah Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "203",
+            "district": "GOALPARA",
+            "name": "PR Govt HS & MP School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "204",
+            "district": "GOALPARA",
+            "name": "Urban Health Center",
+            "type": "Hospital"
+        },
+        {
+            "sno": "205",
+            "district": "GOALPARA",
+            "name": "Matia Adarsha Vidyalaya",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "206",
+            "district": "GOALPARA",
+            "name": "Saint Xaviers School, Krishnai",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "207",
+            "district": "GOALPARA",
+            "name": "Mech Public School Hostel, Ambari",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "208",
+            "district": "GOALPARA",
+            "name": "Goalpara Polytechnic Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "209",
+            "district": "GOALPARA",
+            "name": "Boys Hostel of West Goalpara College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "210",
+            "district": "GOALPARA",
+            "name": "ITI Hostel Goalpara",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "211",
+            "district": "GOALPARA",
+            "name": "Goalpara College Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "212",
+            "district": "GOALPARA",
+            "name": "Kothakuthi ITI Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "213",
+            "district": "GOALPARA",
+            "name": "RSETI Agia",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "214",
+            "district": "GOALPARA",
+            "name": "Science Academy",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "215",
+            "district": "GOLAGHAT",
+            "name": "Life Line Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "216",
+            "district": "GOLAGHAT",
+            "name": "VK NRL Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "217",
+            "district": "GOLAGHAT",
+            "name": "Golaghat Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "218",
+            "district": "GOLAGHAT",
+            "name": "Dergaon Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "219",
+            "district": "GOLAGHAT",
+            "name": "HGM Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "220",
+            "district": "GOLAGHAT",
+            "name": "GBM Nursing Home",
+            "type": "Hospital"
+        },
+        {
+            "sno": "221",
+            "district": "HAILAKANDI",
+            "name": "Polytechnic",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "222",
+            "district": "HAILAKANDI",
+            "name": "S.K.ROY college",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "223",
+            "district": "HAILAKANDI",
+            "name": "Abdul Latif choudhury college Algapur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "224",
+            "district": "HAILAKANDI",
+            "name": "P.K.GIRLS.H.S.SCHOOL Lala",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "225",
+            "district": "HAILAKANDI",
+            "name": "Adarsha Vidyalaya Girls Hostel\r\nKatlicherra",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "226",
+            "district": "HAILAKANDI",
+            "name": "ITI Kuchila,Administrative building",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "227",
+            "district": "HAILAKANDI",
+            "name": "ITI GIRLS HOSTEL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "228",
+            "district": "HOJAI",
+            "name": "NILBAGAN MODEL HOSPITAL, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "229",
+            "district": "HOJAI",
+            "name": "LUMDING RAILWAY HOSPITAL, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "230",
+            "district": "HOJAI",
+            "name": "LANKESWARI HOSPITAL & RESEARCH\r\nCENTRE, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "231",
+            "district": "HOJAI",
+            "name": "M/S DEY'S NURSING HOME, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "232",
+            "district": "HOJAI",
+            "name": "STAR HEALTH CARE HOSPITAL &\r\nRESEARCH CENTRE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "233",
+            "district": "HOJAI",
+            "name": "HAJI ABDUL MAJID MEMORIAL\r\nHOSPITAL, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "234",
+            "district": "HOJAI",
+            "name": "LANKA PHC, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "235",
+            "district": "HOJAI",
+            "name": "DOBOKA CHC, HOJAI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "236",
+            "district": "JORHAT",
+            "name": "Rangajan T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "237",
+            "district": "JORHAT",
+            "name": "Kaziranga University Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "238",
+            "district": "JORHAT",
+            "name": "Teok Tea Estate",
+            "type": "Hospital"
+        },
+        {
+            "sno": "239",
+            "district": "JORHAT",
+            "name": "Tipomia TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "240",
+            "district": "JORHAT",
+            "name": "Kuwori Pukhuri Public H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "241",
+            "district": "JORHAT",
+            "name": "Letekujan T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "242",
+            "district": "JORHAT",
+            "name": "Timtimia High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "243",
+            "district": "JORHAT",
+            "name": "Selenghat H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "244",
+            "district": "JORHAT",
+            "name": "Dholie Saoguri T.E.",
+            "type": "Hospital"
+        },
+        {
+            "sno": "245",
+            "district": "JORHAT",
+            "name": "Lichubari M.E. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "246",
+            "district": "JORHAT",
+            "name": "Rajabari H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "247",
+            "district": "JORHAT",
+            "name": "Hatipara T.E. (Tyroon T.E.)",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "248",
+            "district": "JORHAT",
+            "name": "Charingia High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "249",
+            "district": "JORHAT",
+            "name": "Garajan TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "250",
+            "district": "JORHAT",
+            "name": "Bonai H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "251",
+            "district": "JORHAT",
+            "name": "Saraipani T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "252",
+            "district": "JORHAT",
+            "name": "NA BORA CHUK MODEL HOSPITAL",
+            "type": "Hospital"
+        },
+        {
+            "sno": "253",
+            "district": "JORHAT",
+            "name": "Bishnudev Janajati College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "254",
+            "district": "JORHAT",
+            "name": "SingarijanT.E. (Borsoikata T.E.)",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "255",
+            "district": "JORHAT",
+            "name": "Teok Boys H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "256",
+            "district": "JORHAT",
+            "name": "Madhapur TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "257",
+            "district": "JORHAT",
+            "name": "Joymoti Girls High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "258",
+            "district": "JORHAT",
+            "name": "Swarnapur T.E.",
+            "type": "Hospital"
+        },
+        {
+            "sno": "259",
+            "district": "JORHAT",
+            "name": "Borbheta L.P., M.E. & High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "260",
+            "district": "JORHAT",
+            "name": "Borholla T.E. (Kolapani T.E.)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "261",
+            "district": "JORHAT",
+            "name": "Gobindapur T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "262",
+            "district": "JORHAT",
+            "name": "Dohotia H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "263",
+            "district": "JORHAT",
+            "name": "Kasajan T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "264",
+            "district": "JORHAT",
+            "name": "Rajabari TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "265",
+            "district": "JORHAT",
+            "name": "Sarbudai College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "266",
+            "district": "JORHAT",
+            "name": "Chungi T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "267",
+            "district": "JORHAT",
+            "name": "Kalyani High School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "268",
+            "district": "JORHAT",
+            "name": "Daffalating T.E.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "269",
+            "district": "JORHAT",
+            "name": "Kakojan Tea Estate",
+            "type": "Hospital"
+        },
+        {
+            "sno": "270",
+            "district": "JORHAT",
+            "name": "Sokai Khongia H.S. School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "271",
+            "district": "KAMRUP",
+            "name": "IIT Guest House, Amingaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "272",
+            "district": "KAMRUP",
+            "name": "Patanjali, Mirza",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "273",
+            "district": "KAMRUP",
+            "name": "HEVELS, Kamalpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "274",
+            "district": "KAMRUP",
+            "name": "CIPET, Changsari",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "275",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Pamaling",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "276",
+            "district": "KAMRUP METRO",
+            "name": "Mahabir Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "277",
+            "district": "KAMRUP METRO",
+            "name": "Shree Krishna Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "278",
+            "district": "KAMRUP METRO",
+            "name": "Airport Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "279",
+            "district": "KAMRUP METRO",
+            "name": "Jain Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "280",
+            "district": "KAMRUP METRO",
+            "name": "LNIPE, Sonapur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "281",
+            "district": "KAMRUP METRO",
+            "name": "Harayana Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "282",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Neexotica",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "283",
+            "district": "KAMRUP METRO",
+            "name": "Hotel VIP Regency",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "284",
+            "district": "KAMRUP METRO",
+            "name": "Terapanthi Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "285",
+            "district": "KAMRUP METRO",
+            "name": "Maniram Dewan Trade Centre",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "286",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Ornate",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "287",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Airport Nest",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "288",
+            "district": "KAMRUP METRO",
+            "name": "Maheswari Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "289",
+            "district": "KAMRUP METRO",
+            "name": "Blue Paradise, VIP, Magzine",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "290",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Rituraj",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "291",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Mayur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "292",
+            "district": "KAMRUP METRO",
+            "name": "Bimala Bibah Bhawan, Jayanagar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "293",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Manikanta",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "294",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Geetanjali",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "295",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Rajmahal",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "296",
+            "district": "KAMRUP METRO",
+            "name": "Maligaon Sports Complex",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "297",
+            "district": "KAMRUP METRO",
+            "name": "Kiransree Grand",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "298",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Rajashree Inn",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "299",
+            "district": "KAMRUP METRO",
+            "name": "Sanganeria",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "300",
+            "district": "KAMRUP METRO",
+            "name": "Harayana Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "301",
+            "district": "KAMRUP METRO",
+            "name": "Brahmin Bhwan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "302",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Ashiyana",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "303",
+            "district": "KAMRUP METRO",
+            "name": "Sipani Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "304",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Rudraksh",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "305",
+            "district": "KAMRUP METRO",
+            "name": "APGCL Guest House, Chandrapur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "306",
+            "district": "KAMRUP METRO",
+            "name": "PANCHAYATI THAKURBARI",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "307",
+            "district": "KAMRUP METRO",
+            "name": "Arunachal Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "308",
+            "district": "KAMRUP METRO",
+            "name": "Royal Arunachalee House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "309",
+            "district": "KAMRUP METRO",
+            "name": "Hotel Kanika Inn",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "310",
+            "district": "KAMRUP METRO",
+            "name": "Samta Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "311",
+            "district": "KAMRUP METRO",
+            "name": "Orchid Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "312",
+            "district": "KARBI ANGLONG",
+            "name": "Manja PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "313",
+            "district": "KARIMGANJ",
+            "name": "Indian Red Cross Society, Karimganj\r\n(Pvt.)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "314",
+            "district": "KARIMGANJ",
+            "name": "Asirwad Hospital & Research Center\r\n(Pvt.)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "315",
+            "district": "KARIMGANJ",
+            "name": "Patherkandi CHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "316",
+            "district": "KARIMGANJ",
+            "name": "Makunda Christian Leprosy & Gen.\r\nHospital, Bazaricherra (Pvt.)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "317",
+            "district": "KARIMGANJ",
+            "name": "IMS Hospital (Pvt.)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "318",
+            "district": "KARIMGANJ",
+            "name": "New Life Line & Research Center (Pvt.)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "319",
+            "district": "KOKRAJHAR",
+            "name": "Forest Guest House, Gossaigaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "320",
+            "district": "LAKHIMPUR",
+            "name": "Vivan Hotel, NLP",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "321",
+            "district": "LAKHIMPUR",
+            "name": "Bihpuria College Boys Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "322",
+            "district": "LAKHIMPUR",
+            "name": "Sarnaj Hotel, NLP",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "323",
+            "district": "LAKHIMPUR",
+            "name": "Adarsa Dini Madrassa Islampur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "324",
+            "district": "LAKHIMPUR",
+            "name": "Madrassa Daurasummat Hafijul Ullum",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "325",
+            "district": "LAKHIMPUR",
+            "name": "North Lakhimpur Khutakotiya Deeni\r\nMadrassa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "326",
+            "district": "LAKHIMPUR",
+            "name": "Madhavdev College Naraynpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "327",
+            "district": "LAKHIMPUR",
+            "name": "Central College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "328",
+            "district": "LAKHIMPUR",
+            "name": "Pathalipahar Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "329",
+            "district": "LAKHIMPUR",
+            "name": "Central College Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "330",
+            "district": "LAKHIMPUR",
+            "name": "Subansiri Guest House",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "331",
+            "district": "LAKHIMPUR",
+            "name": "Om Prakash Dindayal College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "332",
+            "district": "LAKHIMPUR",
+            "name": "United Tribal Degree College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "333",
+            "district": "LAKHIMPUR",
+            "name": "Century Green Hotel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "334",
+            "district": "LAKHIMPUR",
+            "name": "North Bank College Ghilamora",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "335",
+            "district": "LAKHIMPUR",
+            "name": "Maa Kali Hotel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "336",
+            "district": "LAKHIMPUR",
+            "name": "Harhi College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "337",
+            "district": "LAKHIMPUR",
+            "name": "Green View Hotel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "338",
+            "district": "LAKHIMPUR",
+            "name": "Dhakuakhana College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "339",
+            "district": "MAJULI",
+            "name": "LA MAISON DE ANANDA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "340",
+            "district": "MAJULI",
+            "name": "KAKOTI GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "341",
+            "district": "MAJULI",
+            "name": "KHONACHUK COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "342",
+            "district": "MAJULI",
+            "name": "PWD BUILDING, GARAMUR",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "343",
+            "district": "MAJULI",
+            "name": "BHAKATIDUAR COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "344",
+            "district": "MAJULI",
+            "name": "BRAHMAPUTRA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "345",
+            "district": "MAJULI",
+            "name": "ATITHYA HOME STAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "346",
+            "district": "MAJULI",
+            "name": "KARHAL GAON COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "347",
+            "district": "MAJULI",
+            "name": "RIVER BANK BAMBO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "348",
+            "district": "MAJULI",
+            "name": "UTTAR KAMALABARI SATRA GUEST\r\nHOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "349",
+            "district": "MAJULI",
+            "name": "MILON SANGHA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "350",
+            "district": "MAJULI",
+            "name": "RATANPUR COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "351",
+            "district": "MAJULI",
+            "name": "DEKACHANG",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "352",
+            "district": "MAJULI",
+            "name": "PHU KE BAMBOO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "353",
+            "district": "MAJULI",
+            "name": "AYANG OKUM",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "354",
+            "district": "MAJULI",
+            "name": "PUSPA BILASH",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "355",
+            "district": "MAJULI",
+            "name": "HOTEL SANGITA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "356",
+            "district": "MAJULI",
+            "name": "ADI BIHIMPUR SATRA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "357",
+            "district": "MAJULI",
+            "name": "GAYANGAON COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "358",
+            "district": "MAJULI",
+            "name": "ENCHANTING MAJULI",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "359",
+            "district": "MAJULI",
+            "name": "RATUL HOMESTAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "360",
+            "district": "MAJULI",
+            "name": "BONGAON COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "361",
+            "district": "MAJULI",
+            "name": "SUBANSIRI LODGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "362",
+            "district": "MAJULI",
+            "name": "ATITHI AWAS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "363",
+            "district": "MAJULI",
+            "name": "GARAMUR SATRA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "364",
+            "district": "MAJULI",
+            "name": "SONARIATI COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "365",
+            "district": "MAJULI",
+            "name": "PRASANTI TOURIST LOUDGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "366",
+            "district": "MAJULI",
+            "name": "RUPALI TAAT GHAR",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "367",
+            "district": "MAJULI",
+            "name": "KOMARGAON RUPALI COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "368",
+            "district": "MAJULI",
+            "name": "KHOGEN HOMESTAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "369",
+            "district": "MAJULI",
+            "name": "LA LOLAD LODGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "370",
+            "district": "MAJULI",
+            "name": "KAMALABARI NA SATRA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "371",
+            "district": "MAJULI",
+            "name": "ANE-RUYING BAMBOO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "372",
+            "district": "MAJULI",
+            "name": "JENGRAIMUKH COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "373",
+            "district": "MAJULI",
+            "name": "JAYA PEGU HOMESTAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "374",
+            "district": "MAJULI",
+            "name": "SEUJ BILASH",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "375",
+            "district": "MAJULI",
+            "name": "TIRTHA'S HOME STAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "376",
+            "district": "MAJULI",
+            "name": "DAKHINPAT SATRA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "377",
+            "district": "MAJULI",
+            "name": "KAMALABARI HEM CHANDRA HIGH\r\nSCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "378",
+            "district": "MAJULI",
+            "name": "RISHONG DONY POLO",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "379",
+            "district": "MAJULI",
+            "name": "POTIA GAON COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "380",
+            "district": "MAJULI",
+            "name": "MAJULI ECO RESORT",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "381",
+            "district": "MAJULI",
+            "name": "RIVER QUEEN HOTEL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "382",
+            "district": "MAJULI",
+            "name": "ELECTION WEAR HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "383",
+            "district": "MAJULI",
+            "name": "GARAMUR SATRA LP SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "384",
+            "district": "MAJULI",
+            "name": "GARAMUR PITAMBER DEV HIGH SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "385",
+            "district": "MAJULI",
+            "name": "GAM BAMBO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "386",
+            "district": "MAJULI",
+            "name": "MAHABAHU BAMBOO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "387",
+            "district": "MAJULI",
+            "name": "AUNIATI COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "388",
+            "district": "MAJULI",
+            "name": "JYOTI HOME STAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "389",
+            "district": "MAJULI",
+            "name": "GARAMUR BANSIGOPAL AUDITORIOUM",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "390",
+            "district": "MAJULI",
+            "name": "NIRIBILI HOMESTSY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "391",
+            "district": "MAJULI",
+            "name": "SUGANDHALOOK HOME STAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "392",
+            "district": "MAJULI",
+            "name": "WATER RESOURCE, GARAMUR",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "393",
+            "district": "MAJULI",
+            "name": "GUWALGAON COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "394",
+            "district": "MAJULI",
+            "name": "DUTTA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "395",
+            "district": "MAJULI",
+            "name": "AUNIATI SATRA GUEST HOUSE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "396",
+            "district": "MAJULI",
+            "name": "FULONI COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "397",
+            "district": "MAJULI",
+            "name": "MEPO OKUM",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "398",
+            "district": "MAJULI",
+            "name": "MODHUBAN HOTEL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "399",
+            "district": "MAJULI",
+            "name": "BALICHAPORI COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "400",
+            "district": "MAJULI",
+            "name": "SRIMANTA SANKARDEV HOTEL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "401",
+            "district": "MAJULI",
+            "name": "DULCE HOGAR HOMESTAY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "402",
+            "district": "MAJULI",
+            "name": "KUMARBARI COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "403",
+            "district": "MAJULI",
+            "name": "SANTI KUNJA BAMBO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "404",
+            "district": "MAJULI",
+            "name": "RIVER WIND BAMBOO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "405",
+            "district": "MAJULI",
+            "name": "MAHESWER LAND",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "406",
+            "district": "MAJULI",
+            "name": "MUDOIBIL COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "407",
+            "district": "MAJULI",
+            "name": "YDGARSHIL BAMBOO COTTAGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "408",
+            "district": "MAJULI",
+            "name": "OKEGIGA RESORT",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "409",
+            "district": "MAJULI",
+            "name": "NAYABAZAR COMMUNITY HALL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "410",
+            "district": "MARIGAON",
+            "name": "Bowalguri ITI",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "411",
+            "district": "MARIGAON",
+            "name": "ITI Dandua",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "412",
+            "district": "MARIGAON",
+            "name": "Moirabari Model School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "413",
+            "district": "MARIGAON",
+            "name": "Kendiya Vidyalaya, Jagiroad, Morigaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "414",
+            "district": "MARIGAON",
+            "name": "DIET Gasbari Morigaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "415",
+            "district": "MARIGAON",
+            "name": "Mayong College Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "416",
+            "district": "MARIGAON",
+            "name": "Moirabari Model Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "417",
+            "district": "MARIGAON",
+            "name": "St. Teresa School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "418",
+            "district": "MARIGAON",
+            "name": "Morigaon College Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "419",
+            "district": "MARIGAON",
+            "name": "Jagiroad College Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "420",
+            "district": "MARIGAON",
+            "name": "Jaluguti Higher Secondary School New\r\nHostel Building",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "421",
+            "district": "MARIGAON",
+            "name": "Ghanakanta Baruah College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "422",
+            "district": "MARIGAON",
+            "name": "Laharighat Multipurpose Hall Laharighat",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "423",
+            "district": "MARIGAON",
+            "name": "Borthal Doloi Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "424",
+            "district": "MARIGAON",
+            "name": "Morigaon HS School",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "425",
+            "district": "MARIGAON",
+            "name": "Jagiroad College Boys Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "426",
+            "district": "MARIGAON",
+            "name": "Rajagadhuwa Senior Madrassa\r\nLaharighat",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "427",
+            "district": "MARIGAON",
+            "name": "JNV Morigaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "428",
+            "district": "MARIGAON",
+            "name": "Nirmaili Vivah Bhawan",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "429",
+            "district": "MARIGAON",
+            "name": "Morigaon College Boys Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "430",
+            "district": "NAGAON",
+            "name": "AMONI MULTI PURPOSE HALL,\r\nBAJIAGAON A.P.",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "431",
+            "district": "NAGAON",
+            "name": "Dawson H.S. & Multipurpose School,\r\nNagaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "432",
+            "district": "NAGAON",
+            "name": "Borsha Bibah Bhawan, Puranigudam",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "433",
+            "district": "NAGAON",
+            "name": "SWAHID HIGH SCHOOL, KATANIGAON",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "434",
+            "district": "NAGAON",
+            "name": "LAILURI GIRLS' HOSTEL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "435",
+            "district": "NAGAON",
+            "name": "NONOI COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "436",
+            "district": "NAGAON",
+            "name": "STATE INSTITUTE OF PANCHAYAT &\r\nRURAL DEVLOPMENT (SIPRD) AMONI",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "437",
+            "district": "NAGAON",
+            "name": "NONOI H.S. SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "438",
+            "district": "NAGAON",
+            "name": "NEHERU YUVA KENDRA Hostel, Nagaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "439",
+            "district": "NAGAON",
+            "name": "ETC, Naltoli, Kaliabor",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "440",
+            "district": "NAGAON",
+            "name": "Khagarijan College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "441",
+            "district": "NAGAON",
+            "name": "PHULAGURI HIGH SCHOOL",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "442",
+            "district": "NAGAON",
+            "name": "Samaguri H.s. School, Nagaon",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "443",
+            "district": "NAGAON",
+            "name": "ADARSHA VIDLAYA LAOKHOWA,\r\nKASOKHAITY",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "444",
+            "district": "NAGAON",
+            "name": "Amlakhi H.s. School, Samaguri",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "445",
+            "district": "NAGAON",
+            "name": "RUPAHI COLLEGE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "446",
+            "district": "NAGAON",
+            "name": "Multipurpose Hall, Dimou",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "447",
+            "district": "NALBARI",
+            "name": "NIZ NAMATI SHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "448",
+            "district": "NALBARI",
+            "name": "UTTAR DHARMAPUR MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "449",
+            "district": "NALBARI",
+            "name": "DAKHINGAON SD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "450",
+            "district": "NALBARI",
+            "name": "BURINAGAR MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "451",
+            "district": "NALBARI",
+            "name": "JALKHANA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "452",
+            "district": "NALBARI",
+            "name": "BOLOWA SHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "453",
+            "district": "NALBARI",
+            "name": "BARKHALA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "454",
+            "district": "NALBARI",
+            "name": "BANEKUCHI MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "455",
+            "district": "NALBARI",
+            "name": "HARIBHANGA SD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "456",
+            "district": "NALBARI",
+            "name": "SOLMARA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "457",
+            "district": "NALBARI",
+            "name": "BARTOLA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "458",
+            "district": "NALBARI",
+            "name": "BALITARA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "459",
+            "district": "NALBARI",
+            "name": "VITHAMAHAL PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "460",
+            "district": "NALBARI",
+            "name": "GOBRADAL MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "461",
+            "district": "NALBARI",
+            "name": "PIPLIBARI MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "462",
+            "district": "NALBARI",
+            "name": "BHADRA ARORA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "463",
+            "district": "NALBARI",
+            "name": "SANEKUCHI SD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "464",
+            "district": "NALBARI",
+            "name": "NARUA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "465",
+            "district": "NALBARI",
+            "name": "CHANDHI MEDHI BALIKA VIDAYALOI\r\nSATRI NIVAS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "466",
+            "district": "NALBARI",
+            "name": "BARBILA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "467",
+            "district": "NALBARI",
+            "name": "BARNIBARI MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "468",
+            "district": "NALBARI",
+            "name": "NILPUR SD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "469",
+            "district": "NALBARI",
+            "name": "LOWTOLA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "470",
+            "district": "NALBARI",
+            "name": "NALBARI URBAN HEALTH CENTRE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "471",
+            "district": "NALBARI",
+            "name": "NIZ BAHJANI MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "472",
+            "district": "NALBARI",
+            "name": "GHOGRAPAR BPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "473",
+            "district": "NALBARI",
+            "name": "MUGDI PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "474",
+            "district": "NALBARI",
+            "name": "DAULASHAL MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "475",
+            "district": "NALBARI",
+            "name": "DHAMDHAMA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "476",
+            "district": "NALBARI",
+            "name": "NANKARBHIRA BHAKATRAM SHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "477",
+            "district": "NALBARI",
+            "name": "CHANDAKUCHI SHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "478",
+            "district": "NALBARI",
+            "name": "MOROWA PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "479",
+            "district": "NALBARI",
+            "name": "ALLIA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "480",
+            "district": "NALBARI",
+            "name": "HATI NAMATI SD",
+            "type": "Hospital"
+        },
+        {
+            "sno": "481",
+            "district": "NALBARI",
+            "name": "KARIA BIJULI GHAT",
+            "type": "Hospital"
+        },
+        {
+            "sno": "482",
+            "district": "NALBARI",
+            "name": "ANM TRAINING CENTRE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "483",
+            "district": "NALBARI",
+            "name": "JAGRA PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "484",
+            "district": "NALBARI",
+            "name": "LATIMA PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "485",
+            "district": "NALBARI",
+            "name": "KAMARKUCHI BPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "486",
+            "district": "NALBARI",
+            "name": "SIALMARI MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "487",
+            "district": "NALBARI",
+            "name": "SILPOTABORI MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "488",
+            "district": "NALBARI",
+            "name": "BORITAPA MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "489",
+            "district": "NALBARI",
+            "name": "HARIMANDIR PHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "490",
+            "district": "SIVASAGAR",
+            "name": "Krishnabihari TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "491",
+            "district": "SIVASAGAR",
+            "name": "Hanumanbaug TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "492",
+            "district": "SIVASAGAR",
+            "name": "Lakhmijan TE hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "493",
+            "district": "SIVASAGAR",
+            "name": "Gossaibari TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "494",
+            "district": "SIVASAGAR",
+            "name": "Ligiripukhuri TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "495",
+            "district": "SIVASAGAR",
+            "name": "Geleky TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "496",
+            "district": "SIVASAGAR",
+            "name": "Attabarie TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "497",
+            "district": "SIVASAGAR",
+            "name": "Thowra TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "498",
+            "district": "SIVASAGAR",
+            "name": "Deopani TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "499",
+            "district": "SIVASAGAR",
+            "name": "Sontok TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "500",
+            "district": "SIVASAGAR",
+            "name": "Bamunpookrie TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "501",
+            "district": "SIVASAGAR",
+            "name": "Halwating TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "502",
+            "district": "SIVASAGAR",
+            "name": "Rajmai Tea Estate Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "503",
+            "district": "SIVASAGAR",
+            "name": "Borbam TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "504",
+            "district": "SIVASAGAR",
+            "name": "Mackypore TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "505",
+            "district": "SIVASAGAR",
+            "name": "Borsillah TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "506",
+            "district": "SIVASAGAR",
+            "name": "Mohkhutie TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "507",
+            "district": "SIVASAGAR",
+            "name": "Behubor TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "508",
+            "district": "SIVASAGAR",
+            "name": "Modinagar TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "509",
+            "district": "SIVASAGAR",
+            "name": "Amgoorie TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "510",
+            "district": "SIVASAGAR",
+            "name": "Khongea TE Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "511",
+            "district": "SONITPUR",
+            "name": "KGBV-II , Dhekiajuli",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "512",
+            "district": "SONITPUR",
+            "name": "Borchala HS School (KGBV IV)",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "513",
+            "district": "SONITPUR",
+            "name": "Tezpur University",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "514",
+            "district": "SONITPUR",
+            "name": "RANGAPARA SUB-DIV. HOSP",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "515",
+            "district": "SONITPUR",
+            "name": "Missamari HS School (KGBV IV)",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "516",
+            "district": "SONITPUR",
+            "name": "Royal Awas",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "517",
+            "district": "SONITPUR",
+            "name": "Rangapara HS School, KGBV IV",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "518",
+            "district": "SONITPUR",
+            "name": "KGBV-II",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "519",
+            "district": "SONITPUR",
+            "name": "KGBV-II , Borchala, Dhekiajuli",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "520",
+            "district": "SOUTH SALMARA\r\nMANCACHAR",
+            "name": "Hatsingimari College Girls Hostel",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "521",
+            "district": "SOUTH SALMARA\r\nMANCACHAR",
+            "name": "Kanaimara PHC Building",
+            "type": "Hospital"
+        },
+        {
+            "sno": "522",
+            "district": "SOUTH SALMARA\r\nMANCACHAR",
+            "name": "Jhowdanga Community Hall",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "523",
+            "district": "SOUTH SALMARA\r\nMANCACHAR",
+            "name": "J M Girls Hostel Mankachar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "524",
+            "district": "SOUTH SALMARA\r\nMANCACHAR",
+            "name": "Trade Center Mankachar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "525",
+            "district": "TINSUKIA",
+            "name": "KACHUJAN SPORTS COMPLEX",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "526",
+            "district": "TINSUKIA",
+            "name": "MANAB KALYAN BHAWAN",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "527",
+            "district": "TINSUKIA",
+            "name": "SKILL DEVELOPMENT CENTRE",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "528",
+            "district": "TINSUKIA",
+            "name": "NA SADIYA BPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "529",
+            "district": "TINSUKIA",
+            "name": "INDIA CLUB MARGHERITA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "530",
+            "district": "TINSUKIA",
+            "name": "SAI BUILDING",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "531",
+            "district": "TINSUKIA",
+            "name": "DEIC TINSUKIA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "532",
+            "district": "TINSUKIA",
+            "name": "ASHA GRIHA TINSUKIA",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "533",
+            "district": "TINSUKIA",
+            "name": "INDIA CLUB DIGBOI",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "534",
+            "district": "TINSUKIA",
+            "name": "TDA INDOOR SPORTS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "535",
+            "district": "TINSUKIA",
+            "name": "SANTIPUR SC STAFF QUARTERS",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "536",
+            "district": "UDALGURI",
+            "name": "Kalaigaon Junior College",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "537",
+            "district": "UDALGURI",
+            "name": "Orang CHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "538",
+            "district": "UDALGURI",
+            "name": "Harisinga Model Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "539",
+            "district": "UDALGURI",
+            "name": "Bhutiachang TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "540",
+            "district": "UDALGURI",
+            "name": "Sonai Camp",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "541",
+            "district": "UDALGURI",
+            "name": "Khoirabari CHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "542",
+            "district": "UDALGURI",
+            "name": "Mazbat TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "543",
+            "district": "UDALGURI",
+            "name": "Dhanserighat",
+            "type": "Hospital"
+        },
+        {
+            "sno": "544",
+            "district": "UDALGURI",
+            "name": "Bhergaon Model hospial",
+            "type": "Hospital"
+        },
+        {
+            "sno": "545",
+            "district": "UDALGURI",
+            "name": "Dhunsiri TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "546",
+            "district": "UDALGURI",
+            "name": "Orangajuli TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "547",
+            "district": "UDALGURI",
+            "name": "Mazbat MPHC",
+            "type": "Hospital"
+        },
+        {
+            "sno": "548",
+            "district": "UDALGURI",
+            "name": "Borangajuli TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "549",
+            "district": "UDALGURI",
+            "name": "Bateli TE",
+            "type": "Hospital"
+        },
+        {
+            "sno": "550",
+            "district": "WEST KARBI ANGLONG",
+            "name": "Zirikinding PHC",
+            "type": "Hospital"
+        }
+    ]
+}

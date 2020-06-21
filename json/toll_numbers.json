@@ -1,0 +1,202 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "Kamrup Metro",
+            "phone_numbers": "Control Room 1 = 6913347770 / Control Room 2\r\n= 6913347771 / Control Room 3 = 6913347772 /\r\nControl Room 4 = 6913347773",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "2",
+            "district": "Kamrup 1",
+            "phone_numbers": "1077 (Tollfree) / 9678471071",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "3",
+            "district": "Kamrup 2",
+            "phone_numbers": "1077 (Tollfree) / 9678471071",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "4",
+            "district": "Nalbari",
+            "phone_numbers": "03624223094",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "5",
+            "district": "Barpeta",
+            "phone_numbers": "6913347770/1/2/3 (6 AM to 11 PM)",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "6",
+            "district": "Morigaon",
+            "phone_numbers": "03678241341 /) 1077 (Toll Free)",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "7",
+            "district": "Bongaigaon",
+            "phone_numbers": "03664228135",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "8",
+            "district": "Dhubri 1",
+            "phone_numbers": "1077 (Tollfree) / 8876841117",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "9",
+            "district": "Dhubri 2 (South Salmara)",
+            "phone_numbers": "1077 (Tollfree) / 03662286328 / 9954853411",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "10",
+            "district": "Goalpara",
+            "phone_numbers": "SINGLE CONTACT NUMBER FOR GOALPARA is\r\n8638409072\r\nRest other Emergency nos are for COVID 19 Hospitalwise are Goalpara Civil = Dr. Janabir Das (9954654364), Matia Model Hospital=Dr. A.K. Talukdar (8761084427,Bikali Model Hospital Dhuprdhara=Dr.Gyan Basumatary (9613110643),Dudhnoi FRU=Dr. Jayanta Kumar Sahu (9954080496),Ambari Bazar Model Hospital=Dr. Atowar Rahman (9435253593),Jaleswar Model Hospital=DR.\r\nNathuram Rabha (9435013021)",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "11",
+            "district": "Kokrajhar",
+            "phone_numbers": "8471875491 / 03661270657",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "12",
+            "district": "Chirang",
+            "phone_numbers": "7896593882/9101654002",
+            "remarks": "No Field Screening"
+        },
+        {
+            "sno": "13",
+            "district": "Sonitpur 1",
+            "phone_numbers": "03712-295227",
+            "remarks": "Not Aware"
+        },
+        {
+            "sno": "14",
+            "district": "Sonitpur 2 (Biswanath)",
+            "phone_numbers": "03712-295227",
+            "remarks": "Not Aware"
+        },
+        {
+            "sno": "15",
+            "district": "Darrang",
+            "phone_numbers": "9435844400",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "16",
+            "district": "Udalguri",
+            "phone_numbers": "6002090330",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "17",
+            "district": "Baksa",
+            "phone_numbers": "9401869930",
+            "remarks": "No Field Screening"
+        },
+        {
+            "sno": "18",
+            "district": "Sibsagar",
+            "phone_numbers": "03772223397",
+            "remarks": "No Field Screening"
+        },
+        {
+            "sno": "19",
+            "district": "Charieodeo",
+            "phone_numbers": "03772223397",
+            "remarks": "No Field Screening"
+        },
+        {
+            "sno": "20",
+            "district": "Dibrugarh",
+            "phone_numbers": "1077/ 9435358371",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "21",
+            "district": "Dhemaji",
+            "phone_numbers": "3753224014",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "22",
+            "district": "Tinsukia",
+            "phone_numbers": "6900911465",
+            "remarks": "No Field Screening"
+        },
+        {
+            "sno": "23",
+            "district": "Cachar",
+            "phone_numbers": "3842230956",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "24",
+            "district": "Hailakandi",
+            "phone_numbers": "7099252972",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "25",
+            "district": "Karimganj",
+            "phone_numbers": "Rajesh chakraborty 8638628106/03843263200",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "26",
+            "district": "Dimahasoe",
+            "phone_numbers": "7896443784 / 8811887870",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "27",
+            "district": "Majuli",
+            "phone_numbers": "9435351450",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "28",
+            "district": "Jorhat",
+            "phone_numbers": "2300059",
+            "remarks": "Not Responding"
+        },
+        {
+            "sno": "29",
+            "district": "Lakhimpur",
+            "phone_numbers": "03752-1077",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "30",
+            "district": "Karbianglong",
+            "phone_numbers": "8134991888",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "31",
+            "district": "Nogoan",
+            "phone_numbers": "9435502302",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "32",
+            "district": "Golaghat",
+            "phone_numbers": "3774283918",
+            "remarks": "Field Screening"
+        },
+        {
+            "sno": "33",
+            "district": "Hojai",
+            "phone_numbers": "6003256039",
+            "remarks": "Field Screening"
+        }
+    ]
+}

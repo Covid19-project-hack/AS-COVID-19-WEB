@@ -1,0 +1,18 @@
+{
+
+    "data": [
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/as-covid19-project.appspot.com/o/Images%2Fimage1.jpeg?alt=media&token=2ccdbaab-0bf6-4ac8-adfe-a85153413d16"
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/as-covid19-project.appspot.com/o/Images%2Fimage2.jpg?alt=media&token=b562501a-d73c-473f-bbef-ac6e87e95fb8"
+        },
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/as-covid19-project.appspot.com/o/Images%2Fimage3.jpg?alt=media&token=24963612-e8d3-4302-bfc2-a866ca661761"
+        }, 
+        {
+            "image": "https://firebasestorage.googleapis.com/v0/b/as-covid19-project.appspot.com/o/Images%2Fimage4.jpg?alt=media&token=b069c403-a4e1-4eb2-8177-b59b9e9fa3d0"
+        }
+
+    ]
+}

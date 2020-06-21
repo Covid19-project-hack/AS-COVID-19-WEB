@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Gauhati Medical College, Guwahati",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": "ICMR-Regional Medical Research Center, Dibrugarh",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": "Jorhat Medical College, Jorhat",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": "Silchar Medical College, Silchar\"",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": "Fakkhruddin Ali Ahmed Medical College, Barpeta",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": "Tezpur Medical College, Tezpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": "Assam Medical College, Dibrugarh",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": "*CSIR North East Institute of Science and Technology (NEIST), Jorhat",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": "*Defence Research Laboratory, Tezpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": "Diphu Medical College, Karbi Anglong\"",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": "Ultracare   Diagnostic   Centre,   Dept   of   Lab Services,     Ashok     Path,     Survey,     Beltola, Guwahati",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": "Molecular Testing LAb, GNRC Lab services, GNRC Hospitals, Dispur",
+            "type": "Private",
+            "test_type": "TrueNat"
+        }
+    ]
+}
