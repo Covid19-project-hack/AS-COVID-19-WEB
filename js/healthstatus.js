@@ -31,7 +31,7 @@ $(document).ready(
     
     firebase.auth().onAuthStateChanged((firebaseUser) => {
       if (firebaseUser) {
-        console.log(firebaseUser.uid);
+        console.log(user);
         user= firebaseUser.uid;
       } else {
         console.log("not logged in");
